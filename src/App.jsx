@@ -123,9 +123,9 @@ const App = () => {
         {/* <img src="/bgimg.jpg" className="hidden md:block" alt="" /> */}
         <div className="flex flex-col items-center justify-center  relative md:space-y-2 md:pt-24 md:pb-40">
           <h1 className="uppercase text-xl md:text-white text-black">let us make your life happier</h1>
-          <h1 className="text-4xl md:text-white text-black">Healthy Living</h1>
+          <h1 className="text-4xl md:text-white text-black  lg:pb-12">Healthy Living</h1>
           <button href="#"
-            className="p-2 px-8 mt-1 md:mt-0 text-center bg-green-500 text-white cursor-pointer rounded-full hover:bg-white hover:text-gray-800 hover:border hover:border-green-400">
+            className="p-2 px-8 mt-1  text-center bg-green-500 text-white cursor-pointer rounded-full hover:bg-white hover:text-gray-800 hover:border hover:border-green-400">
 
             Let's Consult</button>
         </div>
